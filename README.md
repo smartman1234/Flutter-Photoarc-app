@@ -116,13 +116,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downlo
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/Appii00/Flutter-Bloc-MovieDB-App.git
+$ git clone https://github.com/smartman1234/Flutter-Photoarc-app.git
 ```
 
 ### Go into the repository
 
 ```bash
-$ cd Flutter-Bloc-MovieDB-App
+$ cd Flutter-Photoarc-app
 ```
 
 ### Install dependencies
